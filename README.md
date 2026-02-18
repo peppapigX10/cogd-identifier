@@ -4,7 +4,7 @@
 Heya! I'm Peperi, I struggle with mental health so I made a project where you can type the thoughts you are having one by one.
 It will identify what you are battling against!
 
-Visit the project:
+Visit the project: [link](https://cogdidentifier.streamlit.app/?embed_options=dark_theme,light_theme,show_colored_line,show_toolbar)
 
 ## What it Does
 A cognitive distortion is a untrue thought that make the person perceive the situation more negatively than what they truly are.
